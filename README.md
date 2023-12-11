@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayesh262002&label=Profile%20views&color=0e75b6&style=flat" alt="jayesh262002" /> </p>
 
-🌱 I’m currently learning **🤖 Machine Learning**
+🌱 I’m currently learning **🤖 Deep Learning**
 
 📫 How to reach me **📧 jayeshsingh9b@gmail.com**
 
